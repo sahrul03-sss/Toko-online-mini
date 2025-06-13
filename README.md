@@ -1,2 +1,2 @@
-# SAHRUL_240441100058_TOKO-ONLINE-MINI
-project ahkir pbw 2d
+# ProjectAkhir_PBW-D_Kelompok16
+ProjectAkhir_PBW-D_Kelompok16
